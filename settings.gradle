@@ -1,0 +1,1 @@
+include ':app', ':android', ':com.vuzix.speech', ':vuzix_camera', ':vuzix_gesture'
